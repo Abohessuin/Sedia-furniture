@@ -1,0 +1,624 @@
+*
+{
+    margin: 0;
+    padding: 0;
+  
+}
+body
+{
+    overflow-x: hidden;
+}
+#upper
+{
+    
+    width: 100%;
+    height: 100%;
+    background-image: url(bed-bedroom-clean-775219.jpg);
+    background-size: 100% 100%;
+   
+ }
+.navbar
+{
+	background-color:rgba(16, 22, 54, 0.2);
+	border: none;
+}
+.navbar-inverse .navbar-nav > li > a
+{
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13px;
+}
+.text
+{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding-top: 23%;
+    color: white;
+    
+   
+
+
+}
+.text1 
+{
+    font-size: 62px;
+    font-weight: 300;
+    line-height: 68px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px 10px 0px 0px;
+    
+
+}
+.sp1
+{
+    color: #0feb9e;
+  
+}
+.sp2
+{
+    font-weight: 800;
+    font-size: 55;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+    font-family: inherit;
+}
+.text2
+{
+     font-size: 45px;
+     font-weight: 100;
+     line-height: 53px;
+     font-family: "Open Sans", sans-serif;
+    transition: 1s;
+  
+    
+
+ }
+ .p1
+ {
+    font-weight: 300;
+    font-size: 18px;
+    margin-top: 10px;
+
+ }
+ .middle1
+ {
+    width:auto;
+    height:auto;
+    text-align: center;
+    background-color:rgb(244, 247, 249);
+ }
+
+.midde1cont
+ {
+    font-family: "Open Sans", sans-serif;
+    color: #8b0110;
+    font-size: 28px;
+    line-height: 31px;
+    font-weight: 800;
+    margin-top: 70px;
+     text-align: center;
+    
+     
+     /*width: 0%;*/
+ }
+.ul1
+{
+    list-style-type: none;
+    margin-top: 40px;
+    
+    
+    
+    
+}
+
+.ul1 .li1
+{
+   display: inline-block;
+    margin: 0 50px 50px 0;
+   
+   
+   
+
+    
+}
+.sp3
+{
+     margin-left: 10px;
+    font-family:sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 22px;
+    color: #062033
+}
+.ia
+{
+    font-weight: 400;
+    font-size: 26px;
+    color: #8b0110;
+    
+}
+.rr
+{
+    font-weight: 400;
+    font-size: 26px;
+    color: #8b0110;
+    border:1px solid rgb(195, 132, 140) ;
+    border-radius: 100px;
+    padding: 12px;
+    
+}
+
+.middle2
+{
+    width: auto;
+    height: auto;
+    text-align: center;
+    
+}
+.midde2cont
+ {
+    font-family: "Open Sans", sans-serif;
+    color: #8b0110;
+    font-size: 28px;
+    line-height: 31px;
+    font-weight: 800;
+    margin-top: 70px;
+ }
+.p2
+{
+    padding: 80px;
+    font-weight: 600;
+    font-family: 'Lobster', cursive;
+    font-size: 18px;
+    line-height: 24px;
+    
+        
+}
+
+.ul2 .li2
+{
+    display: inline-block;
+    margin: 15px
+}
+.ul2 .li2 .buttt
+{
+    border: none;
+    background: none;
+    padding: 0;
+    margin-bottom: 60px;
+    font-size: 14px;
+    font-weight: 800;
+    color:rgb(76, 76, 76);
+    
+}
+ .ul2 .li2:hover .buttt
+{
+     background-color: rgb(139, 2, 17);
+    color: aliceblue;
+    border:2px solid rgb(139, 2, 17);
+    border-radius: 5px;
+  
+}
+
+.img
+{
+   
+}
+
+.middle2
+{
+    width: auto;
+    height: auto;
+}
+.text.show
+{
+    opacity: 10;
+    
+}
+
+.r
+{
+    padding: 70px;
+}
+
+.midde2cont5
+{
+    font-weight: 600;
+    font-family: 'Lobster', cursive;
+    font-size: 18px;
+    line-height: 24px;
+    
+}
+.devider:before, .devider:after {
+    content: "_________________";
+    color: #e6e8ea;
+    position: relative;
+    bottom: 6px;
+
+}
+.devider:before {
+    right:5px;
+}
+.devider:after {
+    left:5px;
+}
+.devider
+{
+    margin-top: 30px;
+    text-align: center;
+}
+
+
+.oo
+{
+
+  color: darkgrey;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 13px;
+   
+   
+       
+}
+
+
+.nn
+{
+   position: relative;
+   padding:0px;  
+   margin: 0px;
+   
+  
+   
+
+
+
+    
+}
+img
+{
+     
+    
+     text-align: center;
+     margin: 0 auto;
+    
+    
+    
+}
+.overlay
+{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(154, 38, 44);
+    
+     display: none;
+   
+}
+
+.nn:hover .overlay 
+{
+    display: block;
+    opacity: 0.5;
+    cursor: pointer;
+     
+}
+.fh
+{
+    
+    width: 100%;
+    height: auto;
+    position: relative;
+  
+}
+#middle3
+{ 
+    
+     width: 100%;
+     height:auto;
+    margin-top: 100px;
+     background-image: url(
+architecture-attraction-bay-302740.jpg);     background-size:100% 100%;
+     background-repeat: no-repeat;
+    text-align: center;
+    
+   
+}
+.overlay2
+{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background-color:rgb(26, 43, 58);
+    opacity: 0.8;
+    text-align: center;
+   
+    
+}
+
+
+.p9
+{
+    
+     font-size: 28px;
+    font-weight: 800;
+    line-height: 28px;
+    color: #ffffff;
+    font-family: sans-serif;
+    padding-top: 75px;      
+}
+
+.imgmid
+{
+    font-size: 35px;
+    font-weight: 400;
+    color: #ffffff;
+    line-height: 39px;
+    border: 1px solid rgb(115, 124, 133);
+    border-radius: 70px;
+    padding: 44px;
+    
+    
+    
+}
+
+.tops
+{
+  margin-top: 30px;  
+
+}
+
+.see
+{
+    margin-top: 90px;
+    
+   
+}
+.free
+{
+   
+    height: 10%;
+}
+
+.num
+{
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 60px;
+    color:#ffffff 
+    
+}
+.par
+{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    color:#ffffff
+    
+}
+
+.mor
+{
+   font-size: 11px;
+    font-weight: 400;
+    line-height: 21px;
+    color: #ffffff;
+    position: relative;
+    top: 10px;
+}
+.ud
+{
+    margin-top: 58px;
+}
+
+#end1
+{
+    
+}
+
+#end1 .c .end2cont
+{
+    font-weight: 600;
+    font-family: 'Lobster', cursive;
+    font-size: 19px;
+    line-height: 24px;
+    text-align: center;
+    padding: 0px;
+    margin-top: 55px;
+    
+}
+.downpp
+{
+    list-style: none;
+    
+}
+
+.secdiv
+{
+    margin-top: 60px;
+    margin-left: 40px;
+}
+.upperp
+{
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: 400;
+    font-family: sans-serif;
+    color: #062033;
+    margin-right: 35px;
+}
+
+.downp
+{
+    color: rgb(123, 131, 138);
+    margin-top: 25px;
+}
+
+.lilef
+{
+    margin-right: 85px;
+}
+
+.lilefr
+{
+    margin-right: 10px;
+}
+.lilefe
+{
+    margin-right: 80px;
+}
+.floatle
+{
+    float: left;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    color: #062033;
+    font-family: sans-serif;
+        
+    
+}
+.upperform
+{
+    float: left;
+    border-top-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border: 0;
+}
+.end2contt
+{
+    font-weight: 600;
+    font-family: 'Lobster', cursive;
+    font-size: 19px;
+    line-height: 24px;
+    text-align: center;
+    padding: 0px;
+    margin-bottom: 100px;
+    
+}
+.upperform
+{
+    float: left;
+    font-size: 18px;
+     width: 100%;
+        
+   
+}
+form
+{
+    font-size: 15px;
+}
+.sameline
+{
+    margin-top: 20px;
+}
+.theend
+{
+    margin-top: 50px;
+}
+.end
+{
+    width: 100%;
+    height: auto;
+    background-color: rgb(139, 1, 16)
+}
+.pend
+{
+    color: rgb(249, 241, 242);
+}
+#sub
+{
+    background-color:transparent;
+    border: 2px solid white;
+    width: 100%;
+    height: 40px;
+    text-indent: 10px;
+    position: relative;
+
+
+
+}
+#subs
+{
+    font-size: 24px;
+    position: absolute;
+    right:20px;
+    top: 60px;
+    border: 0 none;
+   background-color: transparent;
+    color: white;
+}
+.a8
+{
+    padding-top: 20px;
+}
+.spend
+{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;
+    
+}
+.tp
+{
+    padding-top: 20px;
+    font-size: 13px;
+    color: #ffffff;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.thirdd
+{
+    margin-top: 5px;
+   margin-left: 20px;
+}
+.ul100
+{
+    list-style-type: none;
+    padding-top: 10px;
+   
+}
+.li100
+{
+    margin-top: 5px;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #ffffff;
+}
+.diven
+{
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 700;
+    color: #ffffff;
+}
+ 
+
+.fre
+{
+    width: 100%;
+    height: 10%;
+}
+
+
+.goodluck
+{
+    text-align: center;
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 21px;
+    
+}
+
+
+}
+
+
