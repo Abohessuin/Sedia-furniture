@@ -15,3 +15,6 @@ Company site for displaying furnitures it has,as it was the first site i do as f
 https://sediafurnituree.netlify.app/
 
 
+![Alt text](./4.png)
+
+
